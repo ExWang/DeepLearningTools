@@ -14,6 +14,12 @@ def getProNNstr(node):
 
 
 def myFilter(sentence_nltk):
+    """
+    sentence_nltk: A sentence which is pre-processed with nltk stanford parser, type=<nltk.tree.Tree>
+
+    return: A list of [ZHUYU,BINYU,WEIYU], e.g. [[man, dog, walk], ...]. If there is not WEIYU(predicate),
+            string "NULL" will be WEIYU,type=<list>
+    """
     root = sentence_nltk[0]
     label_list = []
 

@@ -9,3 +9,6 @@
   Some tools for labeling data.
 ### PreProcessTools
   Some tools for pre-processing data.
+### NLPTools
+  Some tools for NLP, including:
+  - Stem Extractor
