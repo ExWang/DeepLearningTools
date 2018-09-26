@@ -7,3 +7,6 @@
    - *ZHUYU ---> subject*
    - *WEIYU ---> predicate*
    - *BINYU ---> object*
+   
+# SPO_extractor_v2.py
+   **Update version.**
