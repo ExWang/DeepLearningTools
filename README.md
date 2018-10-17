@@ -12,3 +12,5 @@
 ### NLPTools
   Some tools for NLP, including:
   - Stem Extractor
+### VisualTools
+  Some tools for visualize the result of the project of some papers.
